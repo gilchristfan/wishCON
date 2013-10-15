@@ -7,7 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb239ca2-546d-4d49-971e-6ba189c61b6d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wishCON_v2.2.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="wishCON_v1.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,7 +40,7 @@
     <file path="/LoadMain.java" changelist="cb239ca2-546d-4d49-971e-6ba189c61b6d" time="1376936218019" ignored="false" />
     <file path="$PROJECT_DIR$/../AndCON/AndroidManifest.xml" changelist="cb239ca2-546d-4d49-971e-6ba189c61b6d" time="1381570954231" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="cb239ca2-546d-4d49-971e-6ba189c61b6d" time="1381570950663" ignored="false" />
-    <file path="/Dummy.txt" changelist="cb239ca2-546d-4d49-971e-6ba189c61b6d" time="1381862963919" ignored="false" />
+    <file path="/Dummy.txt" changelist="cb239ca2-546d-4d49-971e-6ba189c61b6d" time="1381863637787" ignored="false" />
     <file path="$PROJECT_DIR$/../AndCON/src/com/wishcon/AndCON/MainActivity.java" changelist="cb239ca2-546d-4d49-971e-6ba189c61b6d" time="1376937334278" ignored="false" />
     <file path="$PROJECT_DIR$/../AndCON/src/com/wishcon/Connect/wizOUT.java" changelist="cb239ca2-546d-4d49-971e-6ba189c61b6d" time="1378060530301" ignored="false" />
     <file path="/wizOUT.java" changelist="cb239ca2-546d-4d49-971e-6ba189c61b6d" time="1378060377172" ignored="false" />
@@ -264,6 +265,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -302,21 +305,19 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
     <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="OverrideImplement.combined" value="false" />
     <property name="project.structure.proportion" value="0.15" />
+    <property name="OverrideImplement.combined" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="wishcon_v1.0" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -331,11 +332,12 @@
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
-    <property name="dynamic.classpath" value="false" />
     <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Arun\IdeaProjects\wishCON_v1.0" />
       <recent name="C:\Users\Goldberg\IdeaProjects\wishCON_v1.0\src\org\saJava\connect" />
       <recent name="C:\Users\Goldberg\IdeaProjects\wishCON_v1.0\src\lib" />
       <recent name="C:\Users\Goldberg\IdeaProjects\wishCON_v1.0\src\org\saJava\GUI\image" />
@@ -476,6 +478,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -504,19 +519,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -530,13 +532,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -558,6 +553,13 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <list size="5">
@@ -619,7 +621,11 @@
       <created>1381862436274</created>
       <updated>1381862436274</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Final Commit">
+      <created>1381862972024</created>
+      <updated>1381862972024</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -643,7 +649,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="699" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="699" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -735,9 +741,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/org/saJava/GUI/PassChgProg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="53" selection-start="2878" selection-end="2878" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="84" column="53" selection-start="2878" selection-end="2878" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/saJava/main/Launcher.java">
@@ -772,30 +776,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/saJava/GUI/Progress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="75" selection-start="3442" selection-end="3442" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="90" column="75" selection-start="3442" selection-end="3442" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/saJava/connect/WizOUT.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="16" selection-start="558" selection-end="2466" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="71" column="16" selection-start="558" selection-end="2466" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/saJava/GUI/launchUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="339" column="53" selection-start="15709" selection-end="15709" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="339" column="53" selection-start="15709" selection-end="15709" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/saJava/GUI/ConnectProg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="24" selection-start="2354" selection-end="2354" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="80" column="24" selection-start="2354" selection-end="2354" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/saJava/GUI/ShowUsage.java">
@@ -837,9 +833,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
