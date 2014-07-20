@@ -7,13 +7,7 @@ import javax.swing.*;
 import java.awt.event.*;
 import java.io.IOException;
 
-/**
- * Created with IntelliJ IDEA.
- * User: Goldberg
- * Date: 3/7/13
- * Time: 8:55 PM
- * To change this template use File | Settings | File Templates.
- */
+
 public class ChangePwd extends JDialog {
 
     /**
